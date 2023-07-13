@@ -7,7 +7,7 @@ This scripts collection allows automated site creation on your computer. Some sc
 
 ### Why this repo
 
-For people who do a lot of demo and are lazy like me 🫵
+For people who do a lot of demos and are lazy like me 🫵
 
 ## ⚙️ How it works
 
